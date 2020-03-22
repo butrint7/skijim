@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color:#36E7DC;
+}
+
+.para{
+	text-align: center;
+
+}
+.ipari{
+	text-align: center;
+}
+
+.idyti{
+	text-align: center;
+}
+.itreti{
+	text-align: center;
+	background:#1E9890;
+}
+.ikaterti{
+	text-align: center;
+	background:#1E9890;
+}
+.ipesti{
+	text-align: center;
+	background:#1E9890;
+}
+.igjashti{
+	text-align: center;
+	background:#1E9890;
+}
+.ishtati{
+	text-align: center;
+	background:#1E9890;
+}
+.iteti{
+	text-align: center;
+}
+.inanti{
+	text-align: left;
+}
+.idheti{
+	text-align: center;
+}
+
+.socials {
+	display: inline-flex;
+	justify-content: center;
+	border-spacing: 4px;
+	margin: 10px;
+}
+
+.footer{
+	display: flex;
+	justify-content: center;
+}
+
+.footer i {
+	margin: 10px;
+	font-size: 35px;
+}
